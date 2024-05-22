@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá, eu sou a Ana 👋
 
-<!--
-**AnaJuliaVi/AnaJuliaVi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚Estou estudando no curso Alura
+- 👩‍💻Estou me desenvolvendo na linguagem Java script
+- 😊 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-Here are some ideas to get you started:
+  **Podem entrar em contatato comigo atraves do meu email**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  💌Email: vicenteanajulia79@gmail.com
+
+  ![](![image](https://github.com/AnaJuliaVi/AnaJuliaVi/assets/169599548/929099f9-f117-42ba-9b7c-07ac703e51a3)
+  
+
