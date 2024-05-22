@@ -8,6 +8,6 @@
 
   💌Email: vicenteanajulia79@gmail.com
 
-  ![](![image](https://github.com/AnaJuliaVi/AnaJuliaVi/assets/169599548/929099f9-f117-42ba-9b7c-07ac703e51a3)
+![image](https://github.com/AnaJuliaVi/AnaJuliaVi/assets/169599548/929099f9-f117-42ba-9b7c-07ac703e51a3)
   
 
